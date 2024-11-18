@@ -1,0 +1,2 @@
+# MyFirstRepository
+Тупа первый че
